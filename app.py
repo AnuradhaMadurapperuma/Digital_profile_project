@@ -20,7 +20,6 @@ Data Scientist, PhD in Information Systems.
 """
 EMAIL = "anuradhaerandathi@gmail.com"
 SOCIAL_MEDIA = {
-    "YouTube": "https://youtube.com/c/codingisfun",
     "LinkedIn": "linkedin.com/in/anuradha-madurapperuma-82211760",
     "GitHub": "https://github.com",
     "Twitter": "https://twitter.com",
